@@ -28,7 +28,7 @@
 <!--Intro start-->
 - 🔭 I am currently working on projects in c++**
 
-- ☁️ I have a great interest in video game development and cybersecurity.**AWS**
+- ☁️ I have a great interest in video game development and cybersecurity.
 
 - 📫 Feel free to reach me out **josemiguelramirezc@hotmail.com**
 
