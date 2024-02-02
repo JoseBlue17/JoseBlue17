@@ -30,7 +30,6 @@
 
 - ☁️ I have a great interest in video game development and cybersecurity.
 
-- 📫 Feel free to reach me out **josemiguelramirezc@hotmail.com**
 
 
 <!--Intro end-->
