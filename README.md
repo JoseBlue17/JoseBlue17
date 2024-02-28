@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I am currently working on projects in c++**
+- 🔭 I am currently working on projects in c++ and Java**
 
 - ☁️ I have a great interest in video game development and cybersecurity.
 
