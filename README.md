@@ -5,7 +5,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Jose Miguel</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Jose Miguel <IMG height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
   </ul>
 </div>
 
@@ -20,16 +20,17 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Programming is not just about writing code, it's about ingenuity and problem solving.</h2></summary>
+    <summary><h2 style="display: inline-block">Programming is not just about writing code, it's about ingenuity and problem solving✨</h2></summary>
   </ul>
 </div>
 
 
 <!--Intro start-->
 - 🔭 I am currently working on projects in c++ and Java**
-
 - ☁️ I have a great interest in video game development and cybersecurity.
-
+- 🏦 I currently work for a startup based on the development of artificial intelligence and applications.
+- 🌱 I am currently learning Spring Boot and microsoft azure.
+- ⚡ Fun fact: I love to draw, read and play video games.
 
 
 <!--Intro end-->
