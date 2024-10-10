@@ -34,7 +34,7 @@
 
 
 <!--Intro end-->
-Tecnología :<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32" alt="Tecnología Gif"/>
+## Tecnología <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32" alt="Tecnología Gif"/>
 <!--h1 without bottom border-->
   ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -50,10 +50,15 @@ Tecnología :<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.g
      &emsp;
        <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
   
-<h3 class="github-stats-title">Estadísticas de GitHub</h3>
+## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
 
-[![Jose Miguel GitHub stats](https://github-readme-stats.vercel.app/api?username=josemiguel)](https://github.com/josemiguel/github-readme-stats)
-<!-- Connect with me -->
+
+<img alt="Git Hub Stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=joseblue17&show_icons=true&theme=gruvbox"/>
+<img alt="Top Langs" align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseblue17&layout=compact&theme=gruvbox"/>
+
+
+
+
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
