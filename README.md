@@ -60,7 +60,7 @@
 
 ## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
 
-<img alt="Git Hub Stats" align="left" width="47%" src="https://github-readme-stats.vrcel.app/api?username=joseblue17&show_icons=true&theme=gruvbox"/>
+<img alt="Git Hub Stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=joseblue17&show_icons=true&theme=gruvbox"/>
 <img alt="Top Langs" align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseblue17&layout=compact&theme=gruvbox"/>
 
 
