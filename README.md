@@ -60,7 +60,7 @@
 
 ## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
 
-
+![JoseBlue17's Stats](https://github-readme-stats.vercel.app/api?username=JoseBlue17&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
 <img alt="Top Langs" align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseblue17&layout=compact&theme=gruvbox"/>
 
 
