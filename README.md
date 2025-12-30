@@ -63,7 +63,11 @@
 ![JoseBlue17's Stats](https://github-readme-stats.vercel.app/api?username=JoseBlue17&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
 <img alt="Top Langs" align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseblue17&layout=compact&theme=gruvbox"/>
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
 
 
