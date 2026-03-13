@@ -69,7 +69,7 @@
 ![JoseBlue17's Stats](https://github-readme-stats.vercel.app/api?username=JoseBlue17&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
 <img alt="Top Langs" align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseblue17&layout=compact&theme=gruvbox"/>
 
-<img alt="Top Langs" align="left" width="35%" src="https://streak-stats.demolab.com?user=JoseBlue17&theme=gruvbox&hide_border=true" alt="JoseBlue17's GitHub Stats" />
+<img alt="Top Langs" align="left" width="45%" src="https://streak-stats.demolab.com?user=JoseBlue17&theme=gruvbox&hide_border=true" alt="JoseBlue17's GitHub Stats" />
 
 
 
