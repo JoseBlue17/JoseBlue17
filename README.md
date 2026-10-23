@@ -26,11 +26,12 @@
 
 
 <!--Intro start-->
-- 🔭 I am currently working on projects in c++ and Java**
-- ☁️ I have a great interest in video game development and cybersecurity.
-- 🏦 I currently work for a startup based on the development of artificial intelligence and applications.
-- 🌱 I am currently learning Spring Boot and microsoft azure.
-- ⚡ Fun fact: I love to draw, read and play video games.
+- 🔭 I'm currently working on modern frontend applications using React and TypeScript.
+- 💻 I'm passionate about creating intuitive, responsive, and user-friendly web experiences.
+- 🤖 I'm highly interested in Artificial Intelligence, Machine Learning, and their integration into web applications.
+- 🌱 I'm currently expanding my knowledge of AI/ML and AWS cloud technologies.
+- ☁️ I'm preparing for the AWS Certified AI Practitioner certification.
+- 🎮 Fun fact: I love drawing, reading, and playing video games.
 
 
 <!--Intro end-->
